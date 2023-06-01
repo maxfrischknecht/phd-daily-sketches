@@ -1,0 +1,734 @@
+[
+  {
+    "label": "Frau",
+    "count": 110
+  },
+  {
+    "label": "Lachen",
+    "count": 2
+  },
+  {
+    "label": "Portrait",
+    "count": 6
+  },
+  {
+    "label": "Mann",
+    "count": 110
+  },
+  {
+    "label": "Anzug",
+    "count": 3
+  },
+  {
+    "label": "Platz",
+    "count": 1
+  },
+  {
+    "label": "Stadt",
+    "count": 1
+  },
+  {
+    "label": "Plakat",
+    "count": 1
+  },
+  {
+    "label": "Laube",
+    "count": 2
+  },
+  {
+    "label": "Korb",
+    "count": 5
+  },
+  {
+    "label": "Pflasterstein",
+    "count": 2
+  },
+  {
+    "label": "Bahnhof",
+    "count": 2
+  },
+  {
+    "label": "Festkleidung",
+    "count": 1
+  },
+  {
+    "label": "Brunnen",
+    "count": 1
+  },
+  {
+    "label": "Inschrift",
+    "count": 1
+  },
+  {
+    "label": "Pferd",
+    "count": 7
+  },
+  {
+    "label": "Feldweg",
+    "count": 1
+  },
+  {
+    "label": "Tellskapelle",
+    "count": 1
+  },
+  {
+    "label": "Hohle Gasse",
+    "count": 1
+  },
+  {
+    "label": "Tanzen",
+    "count": 1
+  },
+  {
+    "label": "Person",
+    "count": 19
+  },
+  {
+    "label": "Zuschauer/-in",
+    "count": 2
+  },
+  {
+    "label": "Bild der Woche 2018",
+    "count": 1
+  },
+  {
+    "label": "Ringtanz",
+    "count": 1
+  },
+  {
+    "label": "Zelt",
+    "count": 1
+  },
+  {
+    "label": "Zeltplatz",
+    "count": 1
+  },
+  {
+    "label": "Hammer",
+    "count": 1
+  },
+  {
+    "label": "Zelten",
+    "count": 1
+  },
+  {
+    "label": "Auto",
+    "count": 3
+  },
+  {
+    "label": "#SGVzoom",
+    "count": 1
+  },
+  {
+    "label": "M\u00e4dchen",
+    "count": 10
+  },
+  {
+    "label": "Tracht",
+    "count": 6
+  },
+  {
+    "label": "Knabe",
+    "count": 6
+  },
+  {
+    "label": "Heu",
+    "count": 1
+  },
+  {
+    "label": "Wagen",
+    "count": 2
+  },
+  {
+    "label": "Heugabel",
+    "count": 1
+  },
+  {
+    "label": "Berg",
+    "count": 8
+  },
+  {
+    "label": "Restaurant",
+    "count": 1
+  },
+  {
+    "label": "Schindel",
+    "count": 1
+  },
+  {
+    "label": "Hund / H\u00fcndin",
+    "count": 2
+  },
+  {
+    "label": "Hotel",
+    "count": 1
+  },
+  {
+    "label": "Alp",
+    "count": 1
+  },
+  {
+    "label": "K\u00e4seteilet",
+    "count": 1
+  },
+  {
+    "label": "K\u00e4se",
+    "count": 1
+  },
+  {
+    "label": "Fuhrwagen",
+    "count": 1
+  },
+  {
+    "label": "K\u00e4selaib",
+    "count": 1
+  },
+  {
+    "label": "Wald",
+    "count": 2
+  },
+  {
+    "label": "Transport",
+    "count": 4
+  },
+  {
+    "label": "Valorisierung: Museum Burgrain",
+    "count": 3
+  },
+  {
+    "label": "Autobus",
+    "count": 2
+  },
+  {
+    "label": "Kind",
+    "count": 13
+  },
+  {
+    "label": "Fahne",
+    "count": 2
+  },
+  {
+    "label": "Pass",
+    "count": 1
+  },
+  {
+    "label": "Schranke",
+    "count": 1
+  },
+  {
+    "label": "Aussicht",
+    "count": 2
+  },
+  {
+    "label": "Aussichtspunkt",
+    "count": 2
+  },
+  {
+    "label": "Schnee",
+    "count": 3
+  },
+  {
+    "label": "Schild",
+    "count": 1
+  },
+  {
+    "label": "Mauer",
+    "count": 1
+  },
+  {
+    "label": "Ruine",
+    "count": 1
+  },
+  {
+    "label": "Stein",
+    "count": 1
+  },
+  {
+    "label": "Herberge",
+    "count": 1
+  },
+  {
+    "label": "Strasse",
+    "count": 9
+  },
+  {
+    "label": "K\u00fcche",
+    "count": 3
+  },
+  {
+    "label": "Kochtopf",
+    "count": 6
+  },
+  {
+    "label": "Wurst",
+    "count": 2
+  },
+  {
+    "label": "Sch\u00fcrze",
+    "count": 7
+  },
+  {
+    "label": "Dampf",
+    "count": 2
+  },
+  {
+    "label": "Eimer",
+    "count": 2
+  },
+  {
+    "label": "Suppenkelle",
+    "count": 4
+  },
+  {
+    "label": "Regal",
+    "count": 2
+  },
+  {
+    "label": "Fluss",
+    "count": 2
+  },
+  {
+    "label": "Treppe",
+    "count": 2
+  },
+  {
+    "label": "Fischen",
+    "count": 1
+  },
+  {
+    "label": "Angelrute",
+    "count": 1
+  },
+  {
+    "label": "Ufer",
+    "count": 1
+  },
+  {
+    "label": "Besen",
+    "count": 2
+  },
+  {
+    "label": "Hut",
+    "count": 3
+  },
+  {
+    "label": "Kopftuch",
+    "count": 2
+  },
+  {
+    "label": "Fenster",
+    "count": 1
+  },
+  {
+    "label": "Wandern",
+    "count": 1
+  },
+  {
+    "label": "Zaun",
+    "count": 1
+  },
+  {
+    "label": "Drehorgel",
+    "count": 2
+  },
+  {
+    "label": "1. Mai",
+    "count": 1
+  },
+  {
+    "label": "Fahrrad",
+    "count": 2
+  },
+  {
+    "label": "Flugblatt",
+    "count": 1
+  },
+  {
+    "label": "Holz",
+    "count": 1
+  },
+  {
+    "label": "Butterfass",
+    "count": 1
+  },
+  {
+    "label": "Frucht",
+    "count": 1
+  },
+  {
+    "label": "Baby",
+    "count": 2
+  },
+  {
+    "label": "Familie",
+    "count": 12
+  },
+  {
+    "label": "Hauseingang",
+    "count": 1
+  },
+  {
+    "label": "Feldarbeit",
+    "count": 6
+  },
+  {
+    "label": "Kutsche",
+    "count": 2
+  },
+  {
+    "label": "Gruppenportrait",
+    "count": 9
+  },
+  {
+    "label": "Uniform",
+    "count": 4
+  },
+  {
+    "label": "Generation",
+    "count": 1
+  },
+  {
+    "label": "Feier",
+    "count": 14
+  },
+  {
+    "label": "Schulklasse",
+    "count": 9
+  },
+  {
+    "label": "Geburtstag",
+    "count": 5
+  },
+  {
+    "label": "Festtafel",
+    "count": 5
+  },
+  {
+    "label": "Egge",
+    "count": 3
+  },
+  {
+    "label": "Eggen (T\u00e4tigkeit)",
+    "count": 3
+  },
+  {
+    "label": "Bauer/B\u00e4uerin",
+    "count": 3
+  },
+  {
+    "label": "Arbeiter/-in",
+    "count": 5
+  },
+  {
+    "label": "Rind",
+    "count": 3
+  },
+  {
+    "label": "Maultier",
+    "count": 2
+  },
+  {
+    "label": "Scheuklappen",
+    "count": 2
+  },
+  {
+    "label": "Plattenspieler",
+    "count": 1
+  },
+  {
+    "label": "Schallplatte",
+    "count": 1
+  },
+  {
+    "label": "Musik",
+    "count": 1
+  },
+  {
+    "label": "Steintisch",
+    "count": 1
+  },
+  {
+    "label": "Gehstock",
+    "count": 2
+  },
+  {
+    "label": "Wein",
+    "count": 1
+  },
+  {
+    "label": "Arkade",
+    "count": 1
+  },
+  {
+    "label": "Fussg\u00e4nger/-in",
+    "count": 2
+  },
+  {
+    "label": "Winter",
+    "count": 1
+  },
+  {
+    "label": "Alph\u00fctte",
+    "count": 2
+  },
+  {
+    "label": "Reproduktion",
+    "count": 1
+  },
+  {
+    "label": "Fotografie",
+    "count": 2
+  },
+  {
+    "label": "Vieh",
+    "count": 1
+  },
+  {
+    "label": "M\u00fcll",
+    "count": 1
+  },
+  {
+    "label": "Schiff",
+    "count": 1
+  },
+  {
+    "label": "Tasche",
+    "count": 1
+  },
+  {
+    "label": "Milchkanne",
+    "count": 1
+  },
+  {
+    "label": "Picknick",
+    "count": 1
+  },
+  {
+    "label": "Essen (T\u00e4tigkeit)",
+    "count": 1
+  },
+  {
+    "label": "Mahlzeit",
+    "count": 1
+  },
+  {
+    "label": "Brennholz",
+    "count": 2
+  },
+  {
+    "label": "Axt",
+    "count": 1
+  },
+  {
+    "label": "Gefl\u00fcgel",
+    "count": 1
+  },
+  {
+    "label": "Traktor",
+    "count": 2
+  },
+  {
+    "label": "Haus",
+    "count": 3
+  },
+  {
+    "label": "Dorf",
+    "count": 2
+  },
+  {
+    "label": "Erker",
+    "count": 1
+  },
+  {
+    "label": "H\u00e4userzeile",
+    "count": 1
+  },
+  {
+    "label": "Landwirtschaft",
+    "count": 2
+  },
+  {
+    "label": "Obstbaum",
+    "count": 2
+  },
+  {
+    "label": "Schloss (Geb\u00e4ude)",
+    "count": 3
+  },
+  {
+    "label": "Holzverarbeitung",
+    "count": 1
+  },
+  {
+    "label": "T\u00fcr",
+    "count": 1
+  },
+  {
+    "label": "Flur (Geb\u00e4ude)",
+    "count": 1
+  },
+  {
+    "label": "Kachelofen",
+    "count": 1
+  },
+  {
+    "label": "Zeitung",
+    "count": 1
+  },
+  {
+    "label": "Lesen",
+    "count": 1
+  },
+  {
+    "label": "Rauchen",
+    "count": 1
+  },
+  {
+    "label": "Stricken",
+    "count": 1
+  },
+  {
+    "label": "Pflanzentopf",
+    "count": 1
+  },
+  {
+    "label": "Stofftier",
+    "count": 1
+  },
+  {
+    "label": "Ball",
+    "count": 1
+  },
+  {
+    "label": "Spielen",
+    "count": 1
+  },
+  {
+    "label": "Melkeimer",
+    "count": 1
+  },
+  {
+    "label": "Baum",
+    "count": 1
+  },
+  {
+    "label": "Ast",
+    "count": 1
+  },
+  {
+    "label": "Holzstapel",
+    "count": 1
+  },
+  {
+    "label": "Firmung",
+    "count": 9
+  },
+  {
+    "label": "Ausflug",
+    "count": 1
+  },
+  {
+    "label": "Erstkommunion",
+    "count": 1
+  },
+  {
+    "label": "Spaziergang",
+    "count": 3
+  },
+  {
+    "label": "Weg",
+    "count": 3
+  },
+  {
+    "label": "Bekleidung",
+    "count": 3
+  },
+  {
+    "label": "Krawatte",
+    "count": 1
+  },
+  {
+    "label": "Kirche",
+    "count": 5
+  },
+  {
+    "label": "Kleid",
+    "count": 4
+  },
+  {
+    "label": "Br\u00fccke",
+    "count": 1
+  },
+  {
+    "label": "Holz (Material)",
+    "count": 1
+  },
+  {
+    "label": "Fahrradfahrer/-in",
+    "count": 1
+  },
+  {
+    "label": "Aare",
+    "count": 1
+  },
+  {
+    "label": "Senn",
+    "count": 1
+  },
+  {
+    "label": "Schindeldach",
+    "count": 1
+  },
+  {
+    "label": "Sturm",
+    "count": 1
+  },
+  {
+    "label": "Zerst\u00f6rung",
+    "count": 1
+  },
+  {
+    "label": "Wirbelsturm",
+    "count": 1
+  },
+  {
+    "label": "Regenkleider",
+    "count": 1
+  },
+  {
+    "label": "Veranstaltung",
+    "count": 7
+  },
+  {
+    "label": "Feld",
+    "count": 7
+  },
+  {
+    "label": "Fotoapparat",
+    "count": 2
+  },
+  {
+    "label": "Landsgemeinde",
+    "count": 1
+  },
+  {
+    "label": "Gewehr",
+    "count": 1
+  },
+  {
+    "label": "Schirm",
+    "count": 1
+  },
+  {
+    "label": "W\u00e4scheleine",
+    "count": 1
+  },
+  {
+    "label": "Kuh",
+    "count": 1
+  },
+  {
+    "label": "Viehmarkt",
+    "count": 1
+  }
+]

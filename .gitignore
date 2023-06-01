@@ -1,0 +1,4 @@
+node_modules
+00_datasets/images-men/
+00_datasets/images-women/
+**/exports/

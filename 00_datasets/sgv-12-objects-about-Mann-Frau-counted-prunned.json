@@ -1,0 +1,2432 @@
+[
+  {
+    "label": "Fasnacht",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "Greiflet",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "Schnee",
+    "men": 37,
+    "women": 10
+  },
+  {
+    "label": "Fahrrad",
+    "men": 11,
+    "women": 7
+  },
+  {
+    "label": "Wurzel",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Hutte",
+    "men": 6,
+    "women": 11
+  },
+  {
+    "label": "Transport",
+    "men": 39,
+    "women": 14
+  },
+  {
+    "label": "Gehstock",
+    "men": 16,
+    "women": 3
+  },
+  {
+    "label": "Wacholder",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Tabakspfeife",
+    "men": 30,
+    "women": 1
+  },
+  {
+    "label": "Sitzbank",
+    "men": 11,
+    "women": 12
+  },
+  {
+    "label": "Plakat",
+    "men": 3,
+    "women": 1
+  },
+  {
+    "label": "Gespr\u00e4ch",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "Hut",
+    "men": 53,
+    "women": 11
+  },
+  {
+    "label": "Portrait",
+    "men": 69,
+    "women": 40
+  },
+  {
+    "label": "Holzhaus",
+    "men": 2,
+    "women": 8
+  },
+  {
+    "label": "Bart",
+    "men": 7,
+    "women": 0
+  },
+  {
+    "label": "Latzhose",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Maske",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Winter",
+    "men": 29,
+    "women": 3
+  },
+  {
+    "label": "Gel\u00e4nder",
+    "men": 4,
+    "women": 0
+  },
+  {
+    "label": "Viehschau",
+    "men": 3,
+    "women": 0
+  },
+  {
+    "label": "Anzug",
+    "men": 20,
+    "women": 3
+  },
+  {
+    "label": "Leiter",
+    "men": 9,
+    "women": 1
+  },
+  {
+    "label": "Baum",
+    "men": 29,
+    "women": 11
+  },
+  {
+    "label": "Notiz",
+    "men": 47,
+    "women": 0
+  },
+  {
+    "label": "Lachen",
+    "men": 3,
+    "women": 5
+  },
+  {
+    "label": "Torbogen",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Treppe",
+    "men": 6,
+    "women": 3
+  },
+  {
+    "label": "Knabe",
+    "men": 92,
+    "women": 11
+  },
+  {
+    "label": "Zaun",
+    "men": 7,
+    "women": 8
+  },
+  {
+    "label": "Umritt",
+    "men": 3,
+    "women": 3
+  },
+  {
+    "label": "Brauch",
+    "men": 3,
+    "women": 3
+  },
+  {
+    "label": "Feldweg",
+    "men": 6,
+    "women": 8
+  },
+  {
+    "label": "Festkleidung",
+    "men": 7,
+    "women": 12
+  },
+  {
+    "label": "Michaelskreuz",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Blumenwiese",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Arbeit",
+    "men": 141,
+    "women": 7
+  },
+  {
+    "label": "Brennholz",
+    "men": 15,
+    "women": 5
+  },
+  {
+    "label": "B\u00fcndel",
+    "men": 5,
+    "women": 0
+  },
+  {
+    "label": "Abstimmung",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Stimmabgabe",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Beil",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Dampfschiff",
+    "men": 3,
+    "women": 0
+  },
+  {
+    "label": "Uniform",
+    "men": 60,
+    "women": 4
+  },
+  {
+    "label": "Schiffsverkehr",
+    "men": 3,
+    "women": 0
+  },
+  {
+    "label": "Schloss",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Kapelle",
+    "men": 5,
+    "women": 0
+  },
+  {
+    "label": "Gruppe",
+    "men": 1,
+    "women": 4
+  },
+  {
+    "label": "Korb",
+    "men": 19,
+    "women": 16
+  },
+  {
+    "label": "Strasse",
+    "men": 58,
+    "women": 25
+  },
+  {
+    "label": "Hinterhof",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "W\u00e4sche",
+    "men": 1,
+    "women": 13
+  },
+  {
+    "label": "W\u00e4scheleine",
+    "men": 2,
+    "women": 7
+  },
+  {
+    "label": "Platz",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "Stadt",
+    "men": 9,
+    "women": 4
+  },
+  {
+    "label": "Laube",
+    "men": 4,
+    "women": 2
+  },
+  {
+    "label": "Pflasterstein",
+    "men": 4,
+    "women": 2
+  },
+  {
+    "label": "Wagen",
+    "men": 12,
+    "women": 4
+  },
+  {
+    "label": "Heu",
+    "men": 19,
+    "women": 8
+  },
+  {
+    "label": "Rechen",
+    "men": 6,
+    "women": 7
+  },
+  {
+    "label": "Feldwerkzeug",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "Bahnhof",
+    "men": 7,
+    "women": 2
+  },
+  {
+    "label": "Robe",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Schirm",
+    "men": 3,
+    "women": 2
+  },
+  {
+    "label": "Gehsteig",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Zeitung",
+    "men": 7,
+    "women": 5
+  },
+  {
+    "label": "Lesen",
+    "men": 11,
+    "women": 5
+  },
+  {
+    "label": "Brunnen",
+    "men": 3,
+    "women": 12
+  },
+  {
+    "label": "Inschrift",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "Schwein",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Gehege",
+    "men": 1,
+    "women": 2
+  },
+  {
+    "label": "Vieh",
+    "men": 7,
+    "women": 1
+  },
+  {
+    "label": "Pferd",
+    "men": 53,
+    "women": 13
+  },
+  {
+    "label": "Tellskapelle",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Hohle Gasse",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Fronleichnam",
+    "men": 3,
+    "women": 7
+  },
+  {
+    "label": "Feiertag",
+    "men": 36,
+    "women": 0
+  },
+  {
+    "label": "Religion",
+    "men": 3,
+    "women": 7
+  },
+  {
+    "label": "Prozession",
+    "men": 3,
+    "women": 7
+  },
+  {
+    "label": "Kruzifix",
+    "men": 1,
+    "women": 2
+  },
+  {
+    "label": "Baldachin",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Fahne",
+    "men": 20,
+    "women": 6
+  },
+  {
+    "label": "Valorisierung: Maultier Museum",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Maultier",
+    "men": 9,
+    "women": 2
+  },
+  {
+    "label": "Haus",
+    "men": 55,
+    "women": 44
+  },
+  {
+    "label": "Dorf",
+    "men": 27,
+    "women": 28
+  },
+  {
+    "label": "Heuen",
+    "men": 9,
+    "women": 8
+  },
+  {
+    "label": "M\u00e4hen",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Sense (Werkzeug)",
+    "men": 7,
+    "women": 5
+  },
+  {
+    "label": "Feldarbeit",
+    "men": 14,
+    "women": 12
+  },
+  {
+    "label": "Wiese",
+    "men": 16,
+    "women": 17
+  },
+  {
+    "label": "Steilhang",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Gras",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Landwirtschaft",
+    "men": 14,
+    "women": 3
+  },
+  {
+    "label": "Valorisierung: Museum Burgrain",
+    "men": 22,
+    "women": 7
+  },
+  {
+    "label": "Gruppenportrait",
+    "men": 13,
+    "women": 14
+  },
+  {
+    "label": "Brille",
+    "men": 3,
+    "women": 1
+  },
+  {
+    "label": "Holzstapel",
+    "men": 6,
+    "women": 2
+  },
+  {
+    "label": "Tanzen",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Person",
+    "men": 88,
+    "women": 22
+  },
+  {
+    "label": "Zuschauer/-in",
+    "men": 2,
+    "women": 2
+  },
+  {
+    "label": "Bild der Woche 2018",
+    "men": 2,
+    "women": 3
+  },
+  {
+    "label": "Ringtanz",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Zelt",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Zeltplatz",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Hammer",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "Zelten",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Auto",
+    "men": 18,
+    "women": 4
+  },
+  {
+    "label": "#SGVzoom",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Seilwinde",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Winde (Mechanik)",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Holztransport",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Mechanik",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Arbeiter/-in",
+    "men": 67,
+    "women": 13
+  },
+  {
+    "label": "Waage",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Markt",
+    "men": 12,
+    "women": 2
+  },
+  {
+    "label": "Birne",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Fr\u00fcchteverk\u00e4ufer/-in",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Frucht",
+    "men": 9,
+    "women": 4
+  },
+  {
+    "label": "Schaufel",
+    "men": 9,
+    "women": 0
+  },
+  {
+    "label": "Scheiterbeige",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Holzf\u00e4ller/-in",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Kuh",
+    "men": 17,
+    "women": 1
+  },
+  {
+    "label": "Schlitten",
+    "men": 9,
+    "women": 0
+  },
+  {
+    "label": "Baumstamm",
+    "men": 7,
+    "women": 0
+  },
+  {
+    "label": "M\u00e4dchen",
+    "men": 19,
+    "women": 16
+  },
+  {
+    "label": "Tracht",
+    "men": 19,
+    "women": 24
+  },
+  {
+    "label": "Wald",
+    "men": 13,
+    "women": 6
+  },
+  {
+    "label": "Seil",
+    "men": 10,
+    "women": 0
+  },
+  {
+    "label": "Berg",
+    "men": 34,
+    "women": 27
+  },
+  {
+    "label": "Privat",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Seilbahn",
+    "men": 8,
+    "women": 1
+  },
+  {
+    "label": "H\u00fctte",
+    "men": 2,
+    "women": 7
+  },
+  {
+    "label": "Holz",
+    "men": 15,
+    "women": 4
+  },
+  {
+    "label": "Hemd",
+    "men": 3,
+    "women": 0
+  },
+  {
+    "label": "Kopfbedeckung",
+    "men": 5,
+    "women": 14
+  },
+  {
+    "label": "Kind",
+    "men": 38,
+    "women": 53
+  },
+  {
+    "label": "Seilrolle",
+    "men": 3,
+    "women": 0
+  },
+  {
+    "label": "H\u00fcgel",
+    "men": 3,
+    "women": 1
+  },
+  {
+    "label": "Netz",
+    "men": 5,
+    "women": 0
+  },
+  {
+    "label": "Heuernte",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "tragen",
+    "men": 2,
+    "women": 3
+  },
+  {
+    "label": "Heugabel",
+    "men": 3,
+    "women": 4
+  },
+  {
+    "label": "Restaurant",
+    "men": 4,
+    "women": 1
+  },
+  {
+    "label": "Schindel",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "Hund / H\u00fcndin",
+    "men": 10,
+    "women": 7
+  },
+  {
+    "label": "Hotel",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "Garbe (Getreide)",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Getreide",
+    "men": 4,
+    "women": 0
+  },
+  {
+    "label": "Bahn",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Stromleitung",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Alp",
+    "men": 5,
+    "women": 1
+  },
+  {
+    "label": "K\u00e4seteilet",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "K\u00e4se",
+    "men": 4,
+    "women": 1
+  },
+  {
+    "label": "Versammlung",
+    "men": 10,
+    "women": 0
+  },
+  {
+    "label": "Sch\u00fcrze",
+    "men": 14,
+    "women": 36
+  },
+  {
+    "label": "K\u00e4selaib",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "Fuhrwagen",
+    "men": 7,
+    "women": 4
+  },
+  {
+    "label": "Mauer",
+    "men": 4,
+    "women": 2
+  },
+  {
+    "label": "Fahnenstange",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Autobus",
+    "men": 4,
+    "women": 3
+  },
+  {
+    "label": "Pass",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Schranke",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Aussicht",
+    "men": 3,
+    "women": 12
+  },
+  {
+    "label": "Aussichtspunkt",
+    "men": 2,
+    "women": 3
+  },
+  {
+    "label": "Schild",
+    "men": 2,
+    "women": 3
+  },
+  {
+    "label": "Ruine",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Stein",
+    "men": 4,
+    "women": 6
+  },
+  {
+    "label": "Herberge",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Kirche",
+    "men": 11,
+    "women": 11
+  },
+  {
+    "label": "K\u00fcche",
+    "men": 4,
+    "women": 4
+  },
+  {
+    "label": "Kochtopf",
+    "men": 7,
+    "women": 7
+  },
+  {
+    "label": "Wurst",
+    "men": 2,
+    "women": 3
+  },
+  {
+    "label": "Dampf",
+    "men": 6,
+    "women": 5
+  },
+  {
+    "label": "Eimer",
+    "men": 5,
+    "women": 8
+  },
+  {
+    "label": "Suppenkelle",
+    "men": 5,
+    "women": 5
+  },
+  {
+    "label": "Regal",
+    "men": 7,
+    "women": 2
+  },
+  {
+    "label": "Jacke",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Beerdigung",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Fluss",
+    "men": 3,
+    "women": 2
+  },
+  {
+    "label": "Fischen",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Angelrute",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Ufer",
+    "men": 2,
+    "women": 3
+  },
+  {
+    "label": "Besen",
+    "men": 2,
+    "women": 2
+  },
+  {
+    "label": "Kopftuch",
+    "men": 2,
+    "women": 12
+  },
+  {
+    "label": "Fenster",
+    "men": 1,
+    "women": 3
+  },
+  {
+    "label": "See",
+    "men": 6,
+    "women": 6
+  },
+  {
+    "label": "Schiff",
+    "men": 4,
+    "women": 4
+  },
+  {
+    "label": "Wandern",
+    "men": 4,
+    "women": 8
+  },
+  {
+    "label": "Schubkarre",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Teer",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Affe",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Herbstmesse",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Feier",
+    "men": 16,
+    "women": 14
+  },
+  {
+    "label": "Getr\u00e4nk",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Weg",
+    "men": 13,
+    "women": 14
+  },
+  {
+    "label": "Stock",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Zigarette",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Gebirgspass",
+    "men": 1,
+    "women": 2
+  },
+  {
+    "label": "Klausenpass",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Drehorgel",
+    "men": 2,
+    "women": 2
+  },
+  {
+    "label": "Mantel",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Ziege",
+    "men": 1,
+    "women": 6
+  },
+  {
+    "label": "Tier",
+    "men": 1,
+    "women": 2
+  },
+  {
+    "label": "1. Mai",
+    "men": 3,
+    "women": 1
+  },
+  {
+    "label": "Flugblatt",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "Umzug",
+    "men": 37,
+    "women": 0
+  },
+  {
+    "label": "Trommel",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Piccolofl\u00f6te",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Strassenbahn",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Riegelhaus",
+    "men": 6,
+    "women": 2
+  },
+  {
+    "label": "Nahrungsmittel",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Essen (T\u00e4tigkeit)",
+    "men": 8,
+    "women": 1
+  },
+  {
+    "label": "Buch",
+    "men": 7,
+    "women": 4
+  },
+  {
+    "label": "Karte (Kartografie)",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Schifffahrt",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Gasse",
+    "men": 8,
+    "women": 14
+  },
+  {
+    "label": "Ambrosianische T\u00e4ler",
+    "men": 5,
+    "women": 4
+  },
+  {
+    "label": "Tal",
+    "men": 1,
+    "women": 2
+  },
+  {
+    "label": "Eingangstor",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "M\u00fctze",
+    "men": 4,
+    "women": 2
+  },
+  {
+    "label": "Feld",
+    "men": 11,
+    "women": 9
+  },
+  {
+    "label": "Axt",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "Steinhauer/Steinhauerin",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Grigionitaliano",
+    "men": 4,
+    "women": 13
+  },
+  {
+    "label": "Butterfass",
+    "men": 1,
+    "women": 2
+  },
+  {
+    "label": "Geschirr",
+    "men": 25,
+    "women": 0
+  },
+  {
+    "label": "Stall",
+    "men": 4,
+    "women": 0
+  },
+  {
+    "label": "Futter",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Aschermittwoch",
+    "men": 35,
+    "women": 0
+  },
+  {
+    "label": "Kanone",
+    "men": 35,
+    "women": 0
+  },
+  {
+    "label": "Gewehr",
+    "men": 38,
+    "women": 1
+  },
+  {
+    "label": "Gitarre",
+    "men": 3,
+    "women": 0
+  },
+  {
+    "label": "Baby",
+    "men": 2,
+    "women": 21
+  },
+  {
+    "label": "Familie",
+    "men": 20,
+    "women": 33
+  },
+  {
+    "label": "Hauseingang",
+    "men": 2,
+    "women": 4
+  },
+  {
+    "label": "Gant",
+    "men": 60,
+    "women": 0
+  },
+  {
+    "label": "Kupferschmied/-in",
+    "men": 39,
+    "women": 0
+  },
+  {
+    "label": "Werkstatt",
+    "men": 100,
+    "women": 0
+  },
+  {
+    "label": "Handwerk",
+    "men": 18,
+    "women": 0
+  },
+  {
+    "label": "Flechter/-in",
+    "men": 18,
+    "women": 0
+  },
+  {
+    "label": "Bauer/B\u00e4uerin",
+    "men": 30,
+    "women": 10
+  },
+  {
+    "label": "Kutsche",
+    "men": 9,
+    "women": 2
+  },
+  {
+    "label": "Fuhrwerk",
+    "men": 33,
+    "women": 3
+  },
+  {
+    "label": "Misttransport",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Holzlagerung",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "S\u00e4gerei",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Hosentr\u00e4ger",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Holzverarbeitung",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "Gertel",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Kochen",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Feuer",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Generation",
+    "men": 1,
+    "women": 3
+  },
+  {
+    "label": "Fussg\u00e4nger/-in",
+    "men": 10,
+    "women": 14
+  },
+  {
+    "label": "Reben",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Katze / Kater",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Schnurrbart",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Jeep",
+    "men": 7,
+    "women": 0
+  },
+  {
+    "label": "K\u00e4serei",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Kupferkessel",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Alph\u00fctte",
+    "men": 3,
+    "women": 2
+  },
+  {
+    "label": "Alpk\u00e4serei",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Senn",
+    "men": 4,
+    "women": 1
+  },
+  {
+    "label": "Alter Mann",
+    "men": 13,
+    "women": 0
+  },
+  {
+    "label": "Werkzeug",
+    "men": 1,
+    "women": 3
+  },
+  {
+    "label": "Schulklasse",
+    "men": 9,
+    "women": 9
+  },
+  {
+    "label": "Nasenschild",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Hirte/-in",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Hirtenstab",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Fassade",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Stacheldraht",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Scheune",
+    "men": 3,
+    "women": 3
+  },
+  {
+    "label": "Fischer/-in",
+    "men": 4,
+    "women": 0
+  },
+  {
+    "label": "Boot",
+    "men": 3,
+    "women": 2
+  },
+  {
+    "label": "Ruderboot",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Schatten",
+    "men": 4,
+    "women": 4
+  },
+  {
+    "label": "Ernte",
+    "men": 3,
+    "women": 2
+  },
+  {
+    "label": "Flasche",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Abf\u00fcllen",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Schnaps",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Brennen (Schnaps)",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Feuerstelle",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Geburtstag",
+    "men": 5,
+    "women": 6
+  },
+  {
+    "label": "Festtafel",
+    "men": 5,
+    "women": 5
+  },
+  {
+    "label": "Schmiedekunst",
+    "men": 50,
+    "women": 0
+  },
+  {
+    "label": "Schmiede",
+    "men": 26,
+    "women": 0
+  },
+  {
+    "label": "Schmied/-in",
+    "men": 26,
+    "women": 0
+  },
+  {
+    "label": "Gabel",
+    "men": 4,
+    "women": 0
+  },
+  {
+    "label": "Essbesteck",
+    "men": 36,
+    "women": 0
+  },
+  {
+    "label": "L\u00f6ffel",
+    "men": 11,
+    "women": 0
+  },
+  {
+    "label": "Egge",
+    "men": 3,
+    "women": 3
+  },
+  {
+    "label": "Eggen (T\u00e4tigkeit)",
+    "men": 3,
+    "women": 3
+  },
+  {
+    "label": "Rind",
+    "men": 8,
+    "women": 3
+  },
+  {
+    "label": "Silberschmied/-in",
+    "men": 24,
+    "women": 0
+  },
+  {
+    "label": "Religi\u00f6se Bauten",
+    "men": 3,
+    "women": 2
+  },
+  {
+    "label": "Altar",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Milchkanne",
+    "men": 4,
+    "women": 3
+  },
+  {
+    "label": "Kiste",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Baustelle",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Wanderer/Wanderin",
+    "men": 3,
+    "women": 7
+  },
+  {
+    "label": "Spielen",
+    "men": 10,
+    "women": 1
+  },
+  {
+    "label": "Steintisch",
+    "men": 10,
+    "women": 1
+  },
+  {
+    "label": "Scheuklappen",
+    "men": 4,
+    "women": 2
+  },
+  {
+    "label": "Reiten",
+    "men": 3,
+    "women": 0
+  },
+  {
+    "label": "Plattenspieler",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Schallplatte",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Musik",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Wein",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Spaziergang",
+    "men": 4,
+    "women": 11
+  },
+  {
+    "label": "Rauchen",
+    "men": 10,
+    "women": 2
+  },
+  {
+    "label": "Schlafen",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Armut",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Milchverarbeitung",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Sack",
+    "men": 2,
+    "women": 2
+  },
+  {
+    "label": "Reproduktion",
+    "men": 2,
+    "women": 3
+  },
+  {
+    "label": "Fotografie",
+    "men": 9,
+    "women": 5
+  },
+  {
+    "label": "Ochse",
+    "men": 7,
+    "women": 0
+  },
+  {
+    "label": "Eisenbahn",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Werbung",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Rauch",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Pro Juventute",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Arkade",
+    "men": 4,
+    "women": 2
+  },
+  {
+    "label": "Seeufer",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Holzschlag",
+    "men": 3,
+    "women": 0
+  },
+  {
+    "label": "Br\u00fccke",
+    "men": 2,
+    "women": 6
+  },
+  {
+    "label": "Aare",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "Reiter/-in",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Marktstand",
+    "men": 3,
+    "women": 3
+  },
+  {
+    "label": "Besucher/-in",
+    "men": 18,
+    "women": 4
+  },
+  {
+    "label": "Ware",
+    "men": 3,
+    "women": 2
+  },
+  {
+    "label": "Zipfelm\u00fctze",
+    "men": 4,
+    "women": 0
+  },
+  {
+    "label": "Pflug",
+    "men": 6,
+    "women": 0
+  },
+  {
+    "label": "Acker",
+    "men": 7,
+    "women": 7
+  },
+  {
+    "label": "Rucksack",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Strassenschild",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Baumpflege",
+    "men": 7,
+    "women": 0
+  },
+  {
+    "label": "Tisch",
+    "men": 3,
+    "women": 4
+  },
+  {
+    "label": "Esel",
+    "men": 4,
+    "women": 0
+  },
+  {
+    "label": "Thermalbad",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Thermalquelle",
+    "men": 1,
+    "women": 3
+  },
+  {
+    "label": "Renaissance (Baustil)",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Fischernetz",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Quai",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Industrie",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Kanal",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Kran",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Gondola",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Muschel",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Fisch",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Verkauf",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "M\u00fcll",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Tasche",
+    "men": 1,
+    "women": 3
+  },
+  {
+    "label": "Stuhl",
+    "men": 1,
+    "women": 6
+  },
+  {
+    "label": "Wolke",
+    "men": 1,
+    "women": 2
+  },
+  {
+    "label": "Statue",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Bildhauer/-in",
+    "men": 1,
+    "women": 8
+  },
+  {
+    "label": "Kunst",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Waffe",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Morgenstern (Waffe)",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Picknick",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Mahlzeit",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Gefl\u00fcgel",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Feldkreuz",
+    "men": 1,
+    "women": 5
+  },
+  {
+    "label": "Traktor",
+    "men": 3,
+    "women": 2
+  },
+  {
+    "label": "Erker",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "H\u00e4userzeile",
+    "men": 2,
+    "women": 2
+  },
+  {
+    "label": "Obstbaum",
+    "men": 2,
+    "women": 3
+  },
+  {
+    "label": "Friedhof",
+    "men": 6,
+    "women": 1
+  },
+  {
+    "label": "Grab",
+    "men": 6,
+    "women": 0
+  },
+  {
+    "label": "Grabkreuz",
+    "men": 6,
+    "women": 0
+  },
+  {
+    "label": "Bibliothek",
+    "men": 3,
+    "women": 0
+  },
+  {
+    "label": "Krawatte",
+    "men": 6,
+    "women": 1
+  },
+  {
+    "label": "B\u00fccherregal",
+    "men": 3,
+    "women": 0
+  },
+  {
+    "label": "Herstellung",
+    "men": 43,
+    "women": 5
+  },
+  {
+    "label": "Ski",
+    "men": 12,
+    "women": 0
+  },
+  {
+    "label": "Sch\u00fcssel",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Lagerung",
+    "men": 6,
+    "women": 0
+  },
+  {
+    "label": "Bohrer",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Schloss (Geb\u00e4ude)",
+    "men": 6,
+    "women": 5
+  },
+  {
+    "label": "Balke",
+    "men": 4,
+    "women": 1
+  },
+  {
+    "label": "Metall (Material)",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "T\u00fcr",
+    "men": 1,
+    "women": 4
+  },
+  {
+    "label": "Flur (Geb\u00e4ude)",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Kachelofen",
+    "men": 1,
+    "women": 2
+  },
+  {
+    "label": "Stricken",
+    "men": 1,
+    "women": 7
+  },
+  {
+    "label": "Pflanzentopf",
+    "men": 1,
+    "women": 2
+  },
+  {
+    "label": "Stofftier",
+    "men": 1,
+    "women": 2
+  },
+  {
+    "label": "Himmelrichstrasse 15",
+    "men": 3,
+    "women": 0
+  },
+  {
+    "label": "Fotograf/Fotografin",
+    "men": 7,
+    "women": 0
+  },
+  {
+    "label": "Schachtel",
+    "men": 3,
+    "women": 0
+  },
+  {
+    "label": "Atelier",
+    "men": 3,
+    "women": 0
+  },
+  {
+    "label": "Fabrik",
+    "men": 31,
+    "women": 6
+  },
+  {
+    "label": "Maschine",
+    "men": 7,
+    "women": 1
+  },
+  {
+    "label": "Form",
+    "men": 5,
+    "women": 0
+  },
+  {
+    "label": "Filz",
+    "men": 3,
+    "women": 0
+  },
+  {
+    "label": "Dose",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Chemikalie",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Lampe",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Presse",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "B\u00fcgeleisen",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "B\u00fcrste",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Weide (Baum)",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Ast",
+    "men": 3,
+    "women": 4
+  },
+  {
+    "label": "Bauen",
+    "men": 8,
+    "women": 0
+  },
+  {
+    "label": "Pause",
+    "men": 5,
+    "women": 1
+  },
+  {
+    "label": "Glas",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Trinken (T\u00e4tigkeit)",
+    "men": 3,
+    "women": 0
+  },
+  {
+    "label": "Brett",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "S\u00e4gen (T\u00e4tigkeit)",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Sofa",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Ball",
+    "men": 1,
+    "women": 3
+  },
+  {
+    "label": "Melkeimer",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Firmung",
+    "men": 10,
+    "women": 9
+  },
+  {
+    "label": "Ausflug",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Erstkommunion",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Bekleidung",
+    "men": 3,
+    "women": 4
+  },
+  {
+    "label": "Viehhaltung",
+    "men": 3,
+    "women": 0
+  },
+  {
+    "label": "Kleid",
+    "men": 4,
+    "women": 14
+  },
+  {
+    "label": "Bettler/-in",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Fahrradfahrer/-in",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "Stein (Material)",
+    "men": 4,
+    "women": 0
+  },
+  {
+    "label": "Rundbogen",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Durchgang",
+    "men": 1,
+    "women": 4
+  },
+  {
+    "label": "Sessellift",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Dunst",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Bergkette",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Kreuz (religi\u00f6ser Kontext)",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Gipfelkreuz",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Steinhaus",
+    "men": 2,
+    "women": 3
+  },
+  {
+    "label": "Glocke",
+    "men": 3,
+    "women": 3
+  },
+  {
+    "label": "Turm",
+    "men": 3,
+    "women": 3
+  },
+  {
+    "label": "Kirchturm",
+    "men": 2,
+    "women": 3
+  },
+  {
+    "label": "Holz (Material)",
+    "men": 1,
+    "women": 2
+  },
+  {
+    "label": "Steindach",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Pfahl",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Schindeldach",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Papierfabrik",
+    "men": 15,
+    "women": 0
+  },
+  {
+    "label": "Papier (Material)",
+    "men": 16,
+    "women": 0
+  },
+  {
+    "label": "Besichtigung",
+    "men": 15,
+    "women": 0
+  },
+  {
+    "label": "Auslandschweizer/-in",
+    "men": 18,
+    "women": 0
+  },
+  {
+    "label": "Dengeln",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Wohnung",
+    "men": 3,
+    "women": 0
+  },
+  {
+    "label": "Student/-in",
+    "men": 51,
+    "women": 0
+  },
+  {
+    "label": "Bauernhaus",
+    "men": 52,
+    "women": 8
+  },
+  {
+    "label": "Bauernhausforschung",
+    "men": 51,
+    "women": 0
+  },
+  {
+    "label": "Ausmessen",
+    "men": 46,
+    "women": 0
+  },
+  {
+    "label": "Forschung",
+    "men": 46,
+    "women": 0
+  },
+  {
+    "label": "Doppelbelichtung",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Landschaft",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "Bergsee",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Filmstreifen",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Tasse",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Vater",
+    "men": 4,
+    "women": 0
+  },
+  {
+    "label": "Trottinett",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Plan",
+    "men": 8,
+    "women": 0
+  },
+  {
+    "label": "Grundriss",
+    "men": 8,
+    "women": 0
+  },
+  {
+    "label": "Skizze",
+    "men": 16,
+    "women": 0
+  },
+  {
+    "label": "Archivieren",
+    "men": 5,
+    "women": 0
+  },
+  {
+    "label": "Zeichnung",
+    "men": 8,
+    "women": 0
+  },
+  {
+    "label": "Motorrad",
+    "men": 4,
+    "women": 0
+  },
+  {
+    "label": "Sonnenbrille",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Flechten (Verb)",
+    "men": 5,
+    "women": 0
+  },
+  {
+    "label": "Sturm",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Zerst\u00f6rung",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Wirbelsturm",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Regenkleider",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Veranstaltung",
+    "men": 7,
+    "women": 7
+  },
+  {
+    "label": "Fotoapparat",
+    "men": 2,
+    "women": 2
+  },
+  {
+    "label": "Bauernhof",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "Selbstportrait",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Detail",
+    "men": 2,
+    "women": 2
+  },
+  {
+    "label": "Fenstergitter",
+    "men": 1,
+    "women": 1
+  },
+  {
+    "label": "Tor",
+    "men": 4,
+    "women": 2
+  },
+  {
+    "label": "Landsgemeinde",
+    "men": 20,
+    "women": 1
+  },
+  {
+    "label": "Degen",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Instrument",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Schaukasten",
+    "men": 3,
+    "women": 1
+  },
+  {
+    "label": "Joch",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Fels",
+    "men": 1,
+    "women": 0
+  },
+  {
+    "label": "Handschuh",
+    "men": 2,
+    "women": 0
+  },
+  {
+    "label": "Viehmarkt",
+    "men": 2,
+    "women": 1
+  },
+  {
+    "label": "Schnitzbank",
+    "men": 3,
+    "women": 0
+  },
+  {
+    "label": "Stabelle",
+    "men": 2,
+    "women": 2
+  },
+  {
+    "label": "Vorhang",
+    "men": 2,
+    "women": 8
+  },
+  {
+    "label": "Neue Z\u00fcrcher Zeitung",
+    "men": 2,
+    "women": 0
+  }
+]
