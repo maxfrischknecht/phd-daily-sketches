@@ -6,7 +6,6 @@ const url = "230508_AtlasFragekatalog_Prototyp.json"
 const width = 760; // outer width, in pixels
 const	height = 760; // outer height, in pixels
 
-
 d3.json(url).then(function (data) {
 	console.log(data)
 
