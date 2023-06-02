@@ -50,22 +50,22 @@ d3.json(url).then(function (data) {
 
 	const scene = new THREE.Scene();
 	const camera = new THREE.PerspectiveCamera(75, width / height, 0.1, 1000);
-	camera.position.z = 5;
+	camera.position.z = -5;
 	const renderer = new THREE.WebGLRenderer();
 	renderer.setSize(width, height);
 	document.getElementById("d3-container").appendChild(renderer.domElement);
 
-	// const axesHelper = new THREE.AxesHelper(5);
-	// axesHelper.layers.enableAll();
-	// scene.add(axesHelper);
+	const axesHelper = new THREE.AxesHelper(5);
+	axesHelper.layers.enableAll();
+	scene.add(axesHelper);
 
 	nodes.forEach(node => {
 		if (node.depth === 0) return; // Skip the root node
 
-		const geometry = new THREE.CircleGeometry(node.r, 32);
+		const geometry = new THREE.CircleGeometry(node.r / 2, 32);
 		const material = new THREE.MeshBasicMaterial({ color: Math.random() * 0xffffff });
 		const circle = new THREE.Mesh(geometry, material);
-		circle.position.set(node.x - width / 10, node.y - height / 10, 0);
+		circle.position.set(node.x - width / 5, node.y - height / 5, 0);
 
 		scene.add(circle);
 	});
