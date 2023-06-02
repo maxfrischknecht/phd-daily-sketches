@@ -35,13 +35,14 @@ d3.json(url).then(function (data) {
 			// since there is no "real" value, we take the size of the array of children
 			// it's a bit nested and weird, but this works. 
 			if (Array.isArray(d)) {
-				console.log(d[1].length)
+				// console.log(d[1].length)
 				return d[1].length;
 			} else {
 				return 1
 			}
 		})
 		.sort(function (a, b) { return b.value - a.value; });
+	console.log("root", root)
 
 	// // Create the pack layout
 	const pack = d3.pack()
@@ -63,7 +64,7 @@ d3.json(url).then(function (data) {
 		.attr("text-anchor", "middle")
 		.style("background-color", "black");
 
-	console.log(root.children)
+	console.log("root children:", root.children)
 
 	// Create the groups within the sgv element
 	const node = svg.selectAll("circle")
